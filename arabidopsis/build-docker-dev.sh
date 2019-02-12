@@ -16,7 +16,7 @@ docker image build \
     	--build-arg description="Arabidopsis Knetminer" \
     	--build-arg reference_genome=true \
   --build-arg species_dir="$SPECIES_DIR" \
-  --build-arg knetminer_port=8081 \
+  --build-arg knetminer_port=8082 \
   --squash -t $IMAGE_NAME \
   -f common/quickstart/Dockerfile-dev .
 
