@@ -34,16 +34,16 @@
 1-20	has_variation		d
 1-2	occ_in		d
 1-22	differentially_expressed		d
-1-21	cooc_wi
+1-21	cooc_wi		d
 1-23	part_of		d
-1-9	regulates	2	d
-1-8	regulates	2	d
-1-8	homoeolog
-1-9	homoeolog
+1-9	regulates	2
+1-8	regulates	2
+1-8	homoeolog	2
+1-9	homoeolog	2
 1-20	has_mutant		d
 
-10-10	h_s_s
-10-7	h_s_s
+10-10	h_s_s	4
+10-7	h_s_s	4
 10-10	ortho	4
 10-7	ortho	4
 10-10	xref	8
@@ -58,7 +58,7 @@
 10-12	cat_c		d
 10-14	has_domain		d
 10-15	cat_c		d
-10-21	cooc_wi
+10-21	cooc_wi		d
 
 9-2	pub_in		d
 9-3	has_function		d
@@ -71,7 +71,7 @@
 9-13	has_observ_pheno		d
 9-20	has_variation		d
 9-22	differentially_expressed		d
-9-21	cooc_wi
+9-21	cooc_wi		d
 
 20-21	associated_with		d
 20-26	leads_to		d
